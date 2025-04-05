@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm a Web Developer!
 
-<!--
-**123irf/123irf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building efficient, scalable, and user-friendly web applications. I enjoy turning ideas into reality using modern web technologies.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Frontend: **HTML**, **CSS**, **JavaScript**
+- ⚙️ Backend: **Node.js**, **Express.js**
+- 🛢️ Database: **MongoDB**
+- ☕ Other: **Java**
+
+## 🚀 What I Do
+
+- Build full-stack web applications using the **MERN** stack
+- Develop RESTful APIs with **Node.js** and **Express**
+- Create dynamic user interfaces with **JavaScript**
+- Work with **MongoDB** for data management
+- Write clean, maintainable, and scalable code
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohd-irfan-irfan) *(replace with your link)*
+- 🌐 [Portfolio](https://github.com/123irf/123irf) *(replace with your portfolio URL)*
+- 📧 Email: your.email@example.com *(replace with your email)*
+
+---
+
+Thanks for stopping by! Feel free to check out my projects below 👇
